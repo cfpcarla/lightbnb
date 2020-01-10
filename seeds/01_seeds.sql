@@ -8,7 +8,7 @@ INSERT INTO properties(id, owner_id, title, description, thumbnail_photo_url, co
 
 VALUES (1, 1,'house','close to the lake','http//somenthing.com', 'http//hahaha.com',120, 1, 1, 1,'Canada', 'Toronto', 'Dundas street', 'ON', 'm5a23w', true),
 
-(2, 2,'Duplex','close to the shopping','http//lalala.com', 'http//jjjj.com',90, 1, 1, 1,'Canada','Quebec', 'jarvis street', 'QC', 'k1a54e', true),
+(2, 2,'Duplex','close to the shopping','https://i.pinimg.com/originals/12/20/15/1220152ec94842a895f76d78fb66ec57.jpg', 'https://i.pinimg.com/originals/12/20/15/1220152ec94842a895f76d78fb66ec57.jpg',90, 1, 1, 1,'Canada','Quebec', 'jarvis street', 'QC', 'k1a54e', true),
 
 (3, 3, 'duplex', 'Amazing restaurants','http//kijiii.com', 'http//photo.com',150, 1, 3, 3, 'Canada','Hamilton', 'church street', 'ON', '35w2xa', false);
 
